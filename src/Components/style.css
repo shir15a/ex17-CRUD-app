@@ -1,0 +1,23 @@
+.app{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+h2{
+    color: blue;
+}
+
+button{
+    margin-left: 7px;
+    background: transparent;
+    border: 1px solid black  ;
+    color: black;
+    padding: .5vh;
+    cursor: pointer;
+    border-radius: 4px;
+}
+
+button:hover{
+    color: cornflowerblue;
+}
+
+  
